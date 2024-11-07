@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       
-      <AddTodo/>
+      <AddTodo/>   
       <Todos/>
     </>
   )
